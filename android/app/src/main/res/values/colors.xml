@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#FF006C35</color>
+    <color name="payment_sdk_secondary_color">#FF006C35</color>
+    <color name="payment_sdk_button_background_color">#FF006C35</color>
+    <color name="payment_sdk_secondary_font_color">#FF006C35</color>
+</resources>
